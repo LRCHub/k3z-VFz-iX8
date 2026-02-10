@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "idiot",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2026-02-10T01:02:35.931451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "American Idiot",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_American_Idiot_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Idiot Son",
+      "artist": "The Loud Family",
+      "has_synced": true,
+      "path": "select/02_Idiot_Son_The_Loud_Family.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Idiot Son",
+      "artist": "Loud Family",
+      "has_synced": true,
+      "path": "select/03_Idiot_Son_Loud_Family.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Idiot Song",
+      "artist": "Magnapop",
+      "has_synced": false,
+      "path": "select/04_Idiot_Song_Magnapop.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "smile like an idiot",
+      "artist": "Johan Lenox",
+      "has_synced": false,
+      "path": "select/05_smile_like_an_idiot_Johan_Lenox.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born Again Idiot",
+      "artist": "Anthrax",
+      "has_synced": false,
+      "path": "select/06_Born_Again_Idiot_Anthrax.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Idiot Brother",
+      "artist": "The Auteurs",
+      "has_synced": true,
+      "path": "select/07_Idiot_Brother_The_Auteurs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Idiot Waltz",
+      "artist": "Shivaree",
+      "has_synced": false,
+      "path": "select/08_Idiot_Waltz_Shivaree.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Idiot Wind",
+      "artist": "Bob Dylan",
+      "has_synced": false,
+      "path": "select/09_Idiot_Wind_Bob_Dylan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little Idiot",
+      "artist": "Elohim",
+      "has_synced": true,
+      "path": "select/10_Little_Idiot_Elohim.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dance, Idiot, Dance",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/11_Dance,_Idiot,_Dance_Chumbawamba.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Idiot Country",
+      "artist": "Electronic",
+      "has_synced": true,
+      "path": "select/12_Idiot_Country_Electronic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Just A Fuckin' Idiot",
+      "artist": "The Future Sound of London",
+      "has_synced": false,
+      "path": "select/13_Just_A_Fuckin'_Idiot_The_Future_Sound_of_London.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Idiot Bastard Son",
+      "artist": "The Mothers Of Invention",
+      "has_synced": false,
+      "path": "select/14_The_Idiot_Bastard_Son_The_Mothers_Of_Invention.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "idiot",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_idiot_PEOPLE_1.txt"
+    }
+  ]
+}
